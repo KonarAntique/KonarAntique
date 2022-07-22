@@ -3,7 +3,7 @@
 // @namespace    https://forum.sys32.dev/
 // @icon         https://y9x.github.io/webpack/libs/gg.gif
 // @license      gpl-3.0
-// @version      1.24
+// @version      1.25
 // @match        https://krunker.io/*
 // @match        https://*.browserfps.com/*
 // @run-at       document-start
